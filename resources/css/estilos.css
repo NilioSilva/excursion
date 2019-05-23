@@ -34,3 +34,12 @@ body {
     color: aquamarine;
 
 }
+
+/* Footer*/
+
+.footer-copyright {
+    text-align: right;
+    font-size: 21px;
+    color: gray;
+
+}
